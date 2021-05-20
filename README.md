@@ -1,2 +1,2 @@
 # biodata
-My own portfolio
+My own portfolio link: https://arpanmaiti99.github.io/biodata/
